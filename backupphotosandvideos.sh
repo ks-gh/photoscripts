@@ -1,7 +1,7 @@
 #!/bin/bash
 
-currentdir="/Users/shramchevsky/Documents/Photos"
-basedir="/Users/shramchevsky/Documents/Photos/AllJPG"
+currentdir="/Users/Documents/Photos"
+basedir="/Users/Documents/Photos/AllJPG"
 
 cd "$currentdir"
 totalfiles=$(find . -type f -name '*' | wc -l)
