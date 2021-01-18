@@ -6,8 +6,9 @@ Parts of the scripts were found on stackoverflow.com and stackexchange.com
 
 # backupphotosandvideos.sh
 
-This script is intended for converting a large library of Canon RAW and TIFF files into JPG.
+This script can convert a library of Canon RAW and TIFF files into JPG.
 As a bonus, this will re-encode the Canon video files to make them smaller (some quality loss is expected)
+All unsupported files will be copied as is
 
 
 ## Supported OS
